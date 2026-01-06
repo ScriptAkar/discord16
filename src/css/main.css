@@ -1,6 +1,6 @@
 /* Colors setup */
 * {
-    --custom-logo: url(https://cdn.discordapp.com/attachments/1439018374213668944/1458142967876554913/v2.png?ex=695e90f6&is=695d3f76&hm=6d76223e7b1529803200baa143ef4f52da5436f04bfc7d1b3112590643c3b87b&) !important;
+    --custom-logo: url(https://raw.githubusercontent.com/ScriptAkar/discord16/refs/heads/main/src/assets/v2.png) !important;
 
     --font-primary: var(--font), sans-serif !important;
 
